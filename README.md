@@ -1,5 +1,5 @@
 # Dobrodošli v mojem svetu programiranja!
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)****
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)
 ![Learning](https://img.shields.io/badge/Learning-Programming-blue)
 
